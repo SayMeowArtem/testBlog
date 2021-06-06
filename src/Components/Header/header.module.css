@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 135%;
+  color: black;
+  min-height: 110px;
+  background: linear-gradient(0deg, #ffffff 0%, rgba(255, 255, 255, 0) 100%), #fff4d4;
+  border-radius: 0px 0px 0px 0px;
+}

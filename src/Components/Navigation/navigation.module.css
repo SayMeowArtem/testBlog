@@ -1,0 +1,15 @@
+.Menu {
+  display: flex;
+  font-size: 20px;
+  list-style: none;
+}
+
+.Menu a {
+  color: black;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.active a {
+  color: salmon;
+}

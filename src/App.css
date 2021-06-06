@@ -1,4 +1,14 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 20px;
+}
+
 .App {
+  font-family: Helvetica Neue;
   text-align: center;
 }
 
